@@ -47,7 +47,7 @@ const popUp1 = (t) => {
 
     if (t.size === "large") {
       modalSize = {
-        outerDiv: "h-[32rem] w-[34rem]  gap-10",
+        outerDiv: "h-[30rem] w-[32rem]  gap-10",
         badgeDiv: "h-32 w-32",
         badge: "h-[5rem] w-[4rem]",
         defSVG: "90",

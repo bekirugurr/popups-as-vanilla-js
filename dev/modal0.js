@@ -47,7 +47,7 @@ const popUp0 = (t) => {
 
     if (t.size === "large") {
       modalSize = {
-        outerDiv: "h-[30rem] w-[57rem]",
+        outerDiv: "h-[28rem] w-[45rem]",
         innerDiv: "gap-7 px-12",
         form: "gap-6",
       };

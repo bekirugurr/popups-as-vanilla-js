@@ -106,6 +106,7 @@ const popUp6 = (t) => {
           />
           <div class="flex gap-4">
             <button
+              type='button'
               class="text-sm font-semibold border border-gray-400  rounded-lg py-3 w-full text-black hover:bg-[${
                 t.color
               }] close-button" 
